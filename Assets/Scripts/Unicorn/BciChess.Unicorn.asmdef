@@ -1,0 +1,16 @@
+{
+    "name": "BciChess.Unicorn",
+    "rootNamespace": "BciChess.Unicorn",
+    "references": [
+        "BciChess.Bci"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
